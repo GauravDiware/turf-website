@@ -1,0 +1,6 @@
+com\gsdeveloper\bookmyslot\controller\UserController.class
+com\gsdeveloper\bookmyslot\BookMySlotApplication.class
+com\gsdeveloper\bookmyslot\service\UserService.class
+com\gsdeveloper\bookmyslot\entity\User.class
+com\gsdeveloper\bookmyslot\enums\Role.class
+com\gsdeveloper\bookmyslot\repository\UserRepository.class
